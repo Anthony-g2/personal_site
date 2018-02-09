@@ -1,0 +1,49 @@
+.app {
+  margin: auto;
+  letter-spacing: 0.15em;
+}
+.app-content {
+  margin: auto;
+  width: 70vw;
+  margin-bottom: 2vh;
+}
+.app-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  background-color: grey;
+}
+.content {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3em;
+}
+.small {
+  font-size: 1.1em;
+}
+.main-title {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 5em;
+}
+.seperator {
+  margin: .25vh auto;
+  font-size: 1.2em;
+  color: lightgrey;
+}
+.page-title {
+  margin-bottom: 1vh;
+}
+hr {
+  color: lightgrey;
+}
+.content-title {
+  font-size: 2.4em;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  margin-bottom: 3vh;
+}
+.sub-title {
+  font-size: 1.4em;
+  font-family: 'Permanent Marker', cursive;
+}

@@ -1,0 +1,9 @@
+#header {
+  text-align: center;
+  margin: auto;
+}
+#header .content {
+  margin: auto;
+  font-size: 1.2em;
+  color: grey;
+}

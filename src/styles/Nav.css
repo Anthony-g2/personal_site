@@ -1,0 +1,20 @@
+.nav-bar {
+  width: 50vw;
+  height: 8vh;
+  text-align: center;
+  margin: auto;
+}
+.nav-list {
+  list-style: none;
+  margin: 3vh auto;
+  padding: 0;
+}
+.nav-link {
+  text-decoration: underline;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.125em;
+  color: grey;
+}
+.nav-link:hover, .nav-link:focus, .nav-link:active {
+  color: lightgrey;
+}

@@ -1,0 +1,15 @@
+#skills {
+  text-align: center;
+}
+.skill-list {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+#skills .content {
+  margin-bottom: 1vh;
+}
+.skill-img {
+  width: 10vw;
+  margin-bottom: 2vh;
+}
