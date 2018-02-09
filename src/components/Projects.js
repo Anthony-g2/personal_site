@@ -24,7 +24,7 @@ class Projects extends Component {
                 Junket!
               </p>
             </strong>
-            <p className="content">
+            <p className="small content">
               Social media site created so users can post tips and comments on cities througout the world.
             </p>
             <br />
@@ -51,7 +51,7 @@ class Projects extends Component {
                 GA Eats SF
               </p>
             </strong>
-            <p className="content">
+            <p className="small content">
               Web app designed to let users log their favorite restaurants and where to find them.
             </p>
             <br />
