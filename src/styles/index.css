@@ -2,7 +2,7 @@ body {
   margin: 0 0 6vh;
   padding: 0;
   font-family: sans-serif;
-  background-color: #F8F8FF;
+  background-color: #e0e4d9;
 }
 html {
   min-height: 100%;
@@ -31,4 +31,7 @@ html {
     width: auto;
     font-size: 1em !important;
   }
+}
+hr {
+  border-top: 1px solid darkgrey;
 }

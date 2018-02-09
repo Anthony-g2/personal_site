@@ -16,5 +16,5 @@
   color: grey;
 }
 .nav-link:hover, .nav-link:focus, .nav-link:active {
-  color: lightgrey;
+  color: darkgrey;
 }

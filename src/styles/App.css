@@ -29,13 +29,10 @@
 .seperator {
   margin: .25vh auto;
   font-size: 1.2em;
-  color: lightgrey;
+  color: darkgrey;
 }
 .page-title {
   margin-bottom: 1vh;
-}
-hr {
-  color: lightgrey;
 }
 .content-title {
   font-size: 2.4em;
