@@ -48,18 +48,13 @@ class About extends Component {
               <tbody>
                 <tr>
                   <td className="small content">FIFA</td>
-                  <td className="small content">CS:GO</td>
+                  <td className="small content">Warrior Games</td>
                   <td className="small content">Game of Thrones</td>
                 </tr>
                 <tr>
                   <td className="small content">Goat Cheese</td>
                   <td className="small content">Breaking Bad</td>
                   <td className="small content">Hawiian Pizza</td>
-                </tr>
-                <tr>
-                  <td className="small content">Ready Player One</td>
-                  <td className="small content">Django Unchained</td>
-                  <td className="small content">Warrior Games</td>
                 </tr>
               </tbody>
             </Table>
