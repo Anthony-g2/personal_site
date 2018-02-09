@@ -22,11 +22,11 @@ class Skills extends Component {
             </p>
             <hr />
             <ul className="skill-list">
-            <li className="content">HTML+CSS+JavaScript</li>
-              <li className="content">React.js</li>
-              <li className="content">jQuery</li>
-              <li className="content">AJAX</li>
-              <li className="content">Rails</li>
+            <li className="small content">HTML+CSS+JavaScript</li>
+              <li className="small content">React.js</li>
+              <li className="small content">jQuery</li>
+              <li className="small content">AJAX</li>
+              <li className="small content">Rails</li>
             </ul>
           </Col>
           <Col xs={12} md={4}>
@@ -36,11 +36,11 @@ class Skills extends Component {
             </p>
             <hr />
             <ul className="skill-list">
-              <li className="content">Mongoose</li>
-              <li className="content">Express.js</li>
-              <li className="content">Node.js</li>
-              <li className="content">Ruby</li>
-              <li className="content">SQL</li>
+              <li className="small content">Mongoose</li>
+              <li className="small content">Express.js</li>
+              <li className="small content">Node.js</li>
+              <li className="small content">Ruby</li>
+              <li className="small content">SQL</li>
             </ul>
           </Col>
           <Col xs={12} md={4}>
@@ -50,11 +50,11 @@ class Skills extends Component {
             </p>
             <hr />
             <ul className="skill-list">
-              <li className="content">Bootstrap+Materialize</li>
-              <li className="content">Debugging</li>
-              <li className="content">UX+UI</li>
-              <li className="content">Sass</li>
-              <li className="content">Git</li>
+              <li className="small content">Bootstrap+Materialize</li>
+              <li className="small content">Debugging</li>
+              <li className="small content">UX+UI</li>
+              <li className="small content">Sass</li>
+              <li className="small content">Git</li>
             </ul>
           </Col>
         </Row>
