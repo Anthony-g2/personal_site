@@ -9,7 +9,7 @@ import '../styles/About.css';
 class About extends Component {
   render(){
     const popoverTop = (
-      <Popover id="popover-positioned-top" title="Looking forward to hearing from you!">
+      <Popover id="popover-positioned-top" title="Contact Me">
         <a href="mailto:ant.greenwell2@gmail.com?Subject=Re:%20Web%20Design%20with%20Anthony%20Greenwell">
           <Image className="f-icon" src={email} alt="email" title="Email" responsive />
         </a>
