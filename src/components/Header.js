@@ -25,7 +25,7 @@ class Header extends Component {
             <p className="seperator"> | </p>
           </Col>
           <Col xs={2}>
-            <p className="content"> King of the North </p>
+            <p className="content"> Human Being </p>
           </Col>
         </Row>
       </div>
