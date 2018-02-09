@@ -8,7 +8,7 @@ html {
   min-height: 100%;
   position: relative;
 }
-@media (max-width: 575px) {
+@media (max-width: 991px) {
   body {
     text-align: center;
   }
