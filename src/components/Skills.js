@@ -20,6 +20,7 @@ class Skills extends Component {
             <p className="sub-title">
               Front-End
             </p>
+            <hr />
             <ul className="skill-list">
             <li className="content">HTML+CSS+JavaScript</li>
               <li className="content">React.js</li>
@@ -33,6 +34,7 @@ class Skills extends Component {
             <p className="sub-title">
               Back-End
             </p>
+            <hr />
             <ul className="skill-list">
               <li className="content">Mongoose</li>
               <li className="content">Express.js</li>
@@ -46,6 +48,7 @@ class Skills extends Component {
             <p className="sub-title">
               Bonus
             </p>
+            <hr />
             <ul className="skill-list">
               <li className="content">Bootstrap+Materialize</li>
               <li className="content">Debugging</li>
