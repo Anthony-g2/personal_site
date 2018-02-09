@@ -59,7 +59,7 @@ class About extends Component {
                 <tr>
                   <td className="small content">Ready Player One</td>
                   <td className="small content">Django Unchained</td>
-                  <td className="small content">NBA and Beer</td>
+                  <td className="small content">Warrior Games</td>
                 </tr>
               </tbody>
             </Table>

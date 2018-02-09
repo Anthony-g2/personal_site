@@ -8,19 +8,19 @@ class Nav extends Component {
     return (
       <Row className="nav-bar">
         <ul className="nav-list">
-          <Col xs={4} md={3}>
+          <Col xs={4} lg={3}>
             <li className="nav-item"><Link to="/" className="nav-link"> About </Link></li>
           </Col>
-          <Col xsHidden md={1}>
+          <Col xsHidden smHidden mdHidden lg={1}>
             <p className="content seperator"> | </p>
           </Col>
-          <Col xs={4} md={4}>
+          <Col xs={4} lg={4}>
             <li className="nav-item"><Link to="/projects" className="nav-link"> Projects </Link></li>
           </Col>
-          <Col xsHidden md={1}>
+          <Col xsHidden smHidden mdHidden lg={1}>
             <p className="content seperator"> | </p>
           </Col>
-          <Col xs={4} md={3}>
+          <Col xs={4} lg={3}>
             <li className="nav-item"><Link to="/skills" className="nav-link"> Skills </Link></li>
           </Col>
         </ul>
