@@ -3,7 +3,6 @@ import { Row, Col, Image, Popover, OverlayTrigger, Table } from 'react-bootstrap
 import linkedIn from '../pictures/linkedin.png';
 import github from '../pictures/github.png';
 import email from '../pictures/email.png';
-import stackoverflow from '../pictures/stackoverflow.png';
 import Anthony from '../pictures/Anthony.JPG';
 import '../styles/About.css';
 
@@ -19,9 +18,6 @@ class About extends Component {
         </a>
         <a href="https://github.com/Anthony-g2">
           <Image className="f-icon" src={github} alt="github" title="Github" responsive />
-        </a>
-        <a href="https://stackoverflow.com/users/9330424/anthony-greenwell">
-          <Image className="f-icon" src={stackoverflow} alt="stack_overflow" title="Stack Overflow" responsive />
         </a>
       </Popover>
     );
