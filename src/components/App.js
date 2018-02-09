@@ -15,7 +15,7 @@ class App extends Component {
       <Grid className="app">
         <Header />
         <Nav />
-        <hr />
+        <hr className="main-hr"/>
         <div className="app-content">
           <Route exact path="/" component={About}/>
           <Route path="/projects" component={Projects}/>

@@ -40,7 +40,7 @@ class Projects extends Component {
             </a>
           </Col>
         </Row>
-        <hr/>
+        <hr className="main-hr"/>
         <Row>
           <Col xs={12} md={4}>
             <Image className="project-image" src={GA_Eats} alt="project2" title="GA Eats" thumbnail />
