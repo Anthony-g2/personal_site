@@ -19,7 +19,7 @@ class Header extends Component {
             <p className="seperator"> | </p>
           </Col>
           <Col xs={2}>
-            <p className="content"> Deep Thinker </p>
+            <p className="content"> Visual Designer </p>
           </Col>
           <Col xs={1}>
             <p className="seperator"> | </p>
