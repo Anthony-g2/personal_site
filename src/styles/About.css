@@ -5,3 +5,10 @@
   text-decoration: underline;
   font-weight: bold;
 }
+#about-skills {
+  text-align: center;
+}
+#a-image .content {
+  text-align: center;
+  margin-top: 2vh;
+}
