@@ -12,14 +12,14 @@ class Header extends Component {
           </Col>
         </Row>
         <Row>
-          <Col xs={2} xsOffset={2} >
-            <p className="content"> Web Developer </p>
+          <Col xs={2} xsOffset={2}>
+            <p className="content"> Software Engineer </p>
           </Col>
           <Col xs={1}>
             <p className="seperator"> | </p>
           </Col>
           <Col xs={2}>
-            <p className="content"> Visual Designer </p>
+            <p className="content"> Web Developer </p>
           </Col>
           <Col xs={1}>
             <p className="seperator"> | </p>

@@ -7,3 +7,6 @@
   font-size: 1.2em;
   color: grey;
 }
+.popover-content {
+  padding: 0 !important;
+}

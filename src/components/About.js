@@ -24,7 +24,6 @@ class About extends Component {
         </a>
       </Popover>
     );
-
     return (
         <Row id="about">
           <Col xs={12} className="page-title">
