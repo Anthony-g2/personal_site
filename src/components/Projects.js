@@ -60,7 +60,7 @@ class Projects extends Component {
                 Github Repository
               </p>
             </a>
-            <a href="https://github.com/Anthony-g2/vagabond">
+            <a href="https://tranquil-woodland-73750.herokuapp.com/">
               <p className="p-content nav-link">
                 Go to Site
               </p>
