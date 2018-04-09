@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Col, Image, Row } from 'react-bootstrap';
 import Junket from '../pictures/junket.png';
 import GA_Eats from '../pictures/ga_eats.png';
+import TJsSite from '../pictures/portfolio.png';
+import MySite from '../pictures/personalsite.png';
 import '../styles/Projects.css';
 
 
@@ -15,8 +17,52 @@ class Projects extends Component {
             </Col>
           </Row>
           <Row>
+            <Col xs={12} md={4}>
+              <Image className="project-image" src={TJsSite} alt="project1" title="Friends Landing Page" thumbnail />
+            </Col>
+            <Col xs={12} md={8}>
+              <strong>
+                <p className="sub-title">
+                  Personal Website (Friend)
+                </p>
+              </strong>
+              <p className="small content">
+                Created a personal landing page for a friend.
+              </p>
+              <br />
+              <a href="https://terrelpage.herokuapp.com/">
+                <p className="p-content nav-link">
+                  Go to Site
+                </p>
+              </a>
+            </Col>
+          </Row>
+        <hr className="main-hr"/>
+        <Row>
           <Col xs={12} md={4}>
-            <Image className="project-image" src={Junket} alt="project1" title="Junket" thumbnail />
+            <Image className="project-image" src={MySite} alt="project2" title="My Personal Site" thumbnail />
+          </Col>
+          <Col xs={12} md={8}>
+            <strong>
+              <p className="sub-title">
+                Personal Website
+              </p>
+            </strong>
+            <p className="small content">
+              Created my own personal website using React.
+            </p>
+            <br />
+            <a href="https://anthonygreenwell.herokuapp.com/">
+              <p className="p-content nav-link">
+                Go to Site
+              </p>
+            </a>
+          </Col>
+        </Row>
+        <hr className="main-hr"/>
+          <Row>
+          <Col xs={12} md={4}>
+            <Image className="project-image" src={Junket} alt="project3" title="Junket" thumbnail />
           </Col>
           <Col xs={12} md={8}>
             <strong>
@@ -43,7 +89,7 @@ class Projects extends Component {
         <hr className="main-hr"/>
         <Row>
           <Col xs={12} md={4}>
-            <Image className="project-image" src={GA_Eats} alt="project2" title="GA Eats" thumbnail />
+            <Image className="project-image" src={GA_Eats} alt="project4" title="GA Eats" thumbnail />
           </Col>
           <Col xs={12} md={8}>
             <strong>
