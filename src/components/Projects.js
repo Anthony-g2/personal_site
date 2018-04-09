@@ -27,7 +27,8 @@ class Projects extends Component {
                 </p>
               </strong>
               <p className="small content">
-                Created a personal landing page for a friend using React. 
+                Created a personal landing page for a friend using React. Modern style choices and mobile responsive design was the 
+                main focus in this project.
               </p>
               <br />
               <a href="https://terrelpage.herokuapp.com/">
