@@ -27,7 +27,7 @@ class Projects extends Component {
                 </p>
               </strong>
               <p className="small content">
-                Created a personal landing page for a friend.
+                Created a personal landing page for a friend using React. 
               </p>
               <br />
               <a href="https://terrelpage.herokuapp.com/">
@@ -49,7 +49,7 @@ class Projects extends Component {
               </p>
             </strong>
             <p className="small content">
-              Created my own personal website using React.
+              Created my own personal website using React. A centralized collection of my projects, skills and contact information.
             </p>
             <br />
             <a href="https://anthonygreenwell.herokuapp.com/">
@@ -71,7 +71,8 @@ class Projects extends Component {
               </p>
             </strong>
             <p className="small content">
-              Social media site created so users can post tips and comments on cities througout the world.
+              Ruby on Rails application. It allowed users to create, log in to, and edit their own accounts. They can
+              read, comment on and post facts about different international cities.
             </p>
             <br />
             <a href="https://github.com/Anthony-g2/vagabond">
@@ -98,7 +99,8 @@ class Projects extends Component {
               </p>
             </strong>
             <p className="small content">
-              Web app designed to let users log their favorite restaurants and where to find them.
+              Single page web application which utilizes the Google mpa api and jQuery.
+              Allows users to review and post tips on different restaurants while logging their locations on the map.
             </p>
             <br />
             <a href="https://github.com/Anthony-g2/GA_eats">
