@@ -6,4 +6,4 @@ Created with React and Bootstrap-React.
 
 Personal portfolio showcasing recent projects, contact information and most recent resume.
 
-Visit Site [Here] (https://anthonygreenwell.herokuapp.com).
+Visit Site [Here](https://anthonygreenwell.herokuapp.com).
